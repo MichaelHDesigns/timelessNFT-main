@@ -7,7 +7,7 @@ module.exports = {
   // Configure networks (Localhost, Rinkeby, etc.)
   networks: {
     development: {
-      host: '154.12.237.243',
+      host: '206.189.231.104',
       port: 8454,
       network_id: '2330', // Match any network id
     },
