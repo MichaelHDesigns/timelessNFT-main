@@ -7,8 +7,7 @@ module.exports = {
   // Configure networks (Localhost, Rinkeby, etc.)
   networks: {
     development: {
-      host: 'rpc0.altcoinchain.org',
-      port: 8545,
+      host: 'rpc0.altcoinchain.org/rpc',
       network_id: '2330', // Match any network id
     },
     goerli: {
