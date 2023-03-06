@@ -7,7 +7,7 @@ module.exports = {
   // Configure networks (Localhost, Rinkeby, etc.)
   networks: {
     development: {
-      host: '127.0.0.1',
+      host: 'https://rpc0.altcoinchain.org/rpc',
       port: 8545,
       network_id: '2330', // Match any network id
     },
